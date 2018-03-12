@@ -1,4 +1,4 @@
-package com.egen.clearSky.entity;
+package com.egen.clearsky.entity;
 
 public class Average {
     private float humidity;

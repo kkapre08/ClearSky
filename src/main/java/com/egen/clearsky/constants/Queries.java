@@ -1,4 +1,4 @@
-package com.egen.clearSky.constants;
+package com.egen.clearsky.constants;
 
 public class Queries {
 
@@ -17,4 +17,6 @@ public class Queries {
             "FROM weather RIGHT JOIN wind on (wind.weather_id=weather.id)\n" +
             "WHERE city = ?\n" +
             "GROUP BY HOUR(timestamp)";
+
+    private Queries() {}
 }

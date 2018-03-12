@@ -1,8 +1,8 @@
-package com.egen.clearSky.repository;
+package com.egen.clearsky.repository;
 
-import com.egen.clearSky.constants.Queries;
-import com.egen.clearSky.entity.Average;
-import com.egen.clearSky.entity.Weather;
+import com.egen.clearsky.constants.Queries;
+import com.egen.clearsky.entity.Average;
+import com.egen.clearsky.entity.Weather;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
@@ -13,6 +13,7 @@ import java.util.List;
 
 @Repository
 public class WeatherRepository {
+
 
     @Autowired
     private DataSource dataSource;

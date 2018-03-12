@@ -1,7 +1,7 @@
-package com.egen.clearSky.repository;
+package com.egen.clearsky.repository;
 
-import com.egen.clearSky.constants.Queries;
-import com.egen.clearSky.entity.Wind;
+import com.egen.clearsky.constants.Queries;
+import com.egen.clearsky.entity.Wind;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

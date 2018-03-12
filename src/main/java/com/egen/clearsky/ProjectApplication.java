@@ -1,4 +1,4 @@
-package com.egen.clearSky;
+package com.egen.clearsky;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

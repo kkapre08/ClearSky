@@ -1,6 +1,6 @@
-package com.egen.clearSky;
+package com.egen.clearsky;
 
-import com.egen.clearSky.config.Application;
+import com.egen.clearsky.config.Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

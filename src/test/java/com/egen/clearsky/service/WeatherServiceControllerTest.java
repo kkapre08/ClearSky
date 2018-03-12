@@ -1,8 +1,8 @@
-package com.egen.clearSky.service;
+package com.egen.clearsky.service;
 
-import com.egen.clearSky.ProjectApplication;
-import com.egen.clearSky.config.Application;
-import com.egen.clearSky.repository.WeatherRepository;
+import com.egen.clearsky.ProjectApplication;
+import com.egen.clearsky.config.Application;
+import com.egen.clearsky.repository.WeatherRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

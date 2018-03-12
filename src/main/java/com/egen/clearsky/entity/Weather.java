@@ -1,6 +1,7 @@
-package com.egen.clearSky.entity;
+package com.egen.clearsky.entity;
 
 import org.springframework.stereotype.Component;
+
 import java.util.Date;
 
 @Component
