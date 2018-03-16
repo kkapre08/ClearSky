@@ -1,4 +1,4 @@
 FROM openjdk:8
-ADD target/project-0.0.1-SNAPSHOT.jar docker-spring-boot.jar
+ADD target/project-0.0.1-SNAPSHOT.jar egen-clear-sky.jar
 EXPOSE 8085
-ENTRYPOINT ["java","-jar","docker-spring-boot.jar"]
+ENTRYPOINT ["java","-jar","egen-clear-sky.jar"]
