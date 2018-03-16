@@ -10,7 +10,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringRunner;
 
-
+/**
+ * Some test
+ */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = { Application.class, ProjectApplication.class})
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
